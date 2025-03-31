@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+main {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+header {
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+  
+.logo {
+    display: flex;
+    justify-content: left;
+    top: 0;   
+}
